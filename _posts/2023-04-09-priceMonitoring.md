@@ -131,4 +131,3 @@ for url in urlList:
 Further customization is possible according to client requirements.  
 Also an email notification could be sent when an update in the webpage has been spotted.
 
-*In conclusion, this project demonstrates my proficiency in web scraping, data cleaning and storage using the Google Sheets API, and integrating with LookerStudio for report generation. These skills are valuable for data-driven projects that require collecting and analyzing information from websites.*

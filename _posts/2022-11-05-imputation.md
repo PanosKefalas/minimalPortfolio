@@ -167,6 +167,6 @@ A conclusion then would be that, for future missing NO2 values, Linear Interpola
 
 Below are presented Plots for other features, besides NO2. We can see that each variable responds differently to K-NN Imputer, Linear and Cubic interpolation.
 
-![h2s](/assets/images/airQuality/imputation/H2S (ppb)_Imputation.png)
+![h2s](/assets/images/airQuality/imputation/H2S_Imputation.png)
 ![hum](/assets/images/airQuality/imputation/Humidity_Imputation.png)
-![o3](/assets/images/airQuality/imputation/O3 (ppb)_Imputation.png)
+![o3](/assets/images/airQuality/imputation/O3_Imputation.png)

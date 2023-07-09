@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Panos Kefalas Data Science Portfolio
+title: My Data Science Portfolio
 email: panoskefalas@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Passionate data scientist with academic mechanical engineering and professional software engineering background. Experienced in Python, SQL, Machine Learning and bringing hands-on expertise in modelling real-world data and providing valuable insights.
@@ -61,7 +61,7 @@ author:
   links:
     - label: "Resume"
       icon: "fas fa-file-alt"
-      url: "https://github.com/PanosKefalas/portfolio/blob/master/assets/resume/Panagiotis_Kefalas_Resume.pdf"
+      url: "/portfolio/assets/resume/Panagiotis_Kefalas_Resume.pdf"
     - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/pkefalas/"

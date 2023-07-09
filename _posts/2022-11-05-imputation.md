@@ -17,7 +17,7 @@ tags:
 
 ---
 
-*This is the first part of a series regarding Air Quality data analysis and modelling acquired through low cost sensors.*
+*This is the first part of a series regarding analysis and modelling of Air Quality data, acquired through low cost sensors.*
 
 ## Introduction
 

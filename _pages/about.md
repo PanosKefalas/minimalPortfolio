@@ -3,6 +3,9 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a passionate data scientist and machine learning tech enthusiast with an academic foundation in engineering. Experienced in Python, SQL and with hands-on expertise in modelling real-world data and providing valuable insights. Additionally, I have professional experience managing e-shops Google Analytics data and LookerStudio visualization.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Furthermore, I bring a year of professional experience as a software engineer, where I have honed my ability to write clean and efficient code, collaborate effectively, and deliver successful projects under pressure, earning excellent client evaluations. 
+
+
+Combining my proficiency in data science with my engineering background, I bring a holistic perspective to projects. I am excited to contribute my skills to impactful AI endeavors.<br><br> Feel free to check my resume and continue to my website to view a sample of my public projects.

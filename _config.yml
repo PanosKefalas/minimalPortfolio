@@ -16,7 +16,7 @@
 title: My Data Science Portfolio
 email: panoskefalas@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Passionate data scientist with academic mechanical engineering and professional software engineering background. Experienced in Python, SQL, Machine Learning and bringing hands-on expertise in modelling real-world data and providing valuable insights.
+  Passionate data scientist with mechanical and software engineering background. Experienced in Python, SQL, Machine Learning. Hands-on expertise in modelling Energy, Environmental, E-Commerce data and providing meaningful insights.
 github_username: PanosKefalas
 minimal_mistakes_skin: default
 search: true
@@ -56,7 +56,7 @@ plugins:
 author:
   name   : "Panos Kefalas"
   avatar : "assets/images/pkefalas.jpg"
-  bio    : "Passionate data scientist with academic mechanical engineer and professional software engineer background. Experienced in Python, SQL, bringing hands-on expertise in modelling real-world data and providing meaningful insights."
+  bio    : "Passionate data scientist with mechanical and software engineering background. Experienced in Python, SQL, Machine Learning. Hands-on expertise in modelling Energy, Environmental, E-Commerce data and providing meaningful insights."
   email  : "panoskefalas@outlook.com"
   links:
     - label: "Resume"

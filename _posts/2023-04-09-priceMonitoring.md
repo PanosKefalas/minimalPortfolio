@@ -122,11 +122,11 @@ for url in urlList:
 ``````
 **Eventually the google sheet shall look like this:**
 
-![sheets](/assets/images/priceScraper/Screenshot from 2023-05-28 17-39-36.png)
+![sheets](/portfolio/assets/images/priceScraper/Screenshot from 2023-05-28 17-39-36.png)
 
 **And the report on LookerStudio like this:**
 
-![report](/assets/images/priceScraper/Screenshot from 2023-05-28 18-02-24.png)
+![report](/portfolio/assets/images/priceScraper/Screenshot from 2023-05-28 18-02-24.png)
 
 Further customization is possible according to client requirements.  
 Also an email notification could be sent when an update in the webpage has been spotted.

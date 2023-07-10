@@ -46,11 +46,11 @@ df
 
 The data sample that we are going to work with looks like this,
 
-[![data table](/assets/images/airQuality/imputation/dataTable.png)](/assets/images/airQuality/imputation/dataTable.png)
+[![data table](/portfolio/assets/images/airQuality/imputation/dataTable.png)](/portfolio/assets/images/airQuality/imputation/dataTable.png)
 
 and after checking for missing values, we notice that less than 5% of the Dew Point values are missing and almost none of the others:
 
-[![missingVal](/assets/images/airQuality/imputation/missingValues.png)](/assets/images/airQuality/imputation/missingValues.png)
+[![missingVal](/portfolio/assets/images/airQuality/imputation/missingValues.png)](/portfolio/assets/images/airQuality/imputation/missingValues.png)
 
 
 
@@ -80,7 +80,7 @@ for i in nan_Index[1:]:
 
 Zooming in at two of the artificially crated data gaps:
 
-![gapPlot](/assets/images/airQuality/imputation/gapPlot.png)
+![gapPlot](/portfolio/assets/images/airQuality/imputation/gapPlot.png)
 
 Now we are ready to start testing the imputation methods on the test set.
 
@@ -149,7 +149,7 @@ errors_linear = pd.Series(errors_list,  index=['MAE','MSE', 'R2'])
 ## Results
 
 Plotting the same data gaps with each line representing a different filling method:
-![filledGapPlot](/assets/images/airQuality/imputation/filledGapPlot.png)
+![filledGapPlot](/portfolio/assets/images/airQuality/imputation/filledGapPlot.png)
 
 And comparing the evaluation metrics we saved earlier for each method:
 
